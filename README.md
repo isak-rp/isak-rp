@@ -30,15 +30,26 @@ Soy Ingeniero en Sistemas enfocado en **Backend Development** y **Machine Learni
 - 🛠️ Integré herramientas como MLflow y DVC para experimentar con el monitoreo y versionado de datos en un entorno práctico.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=isak-rp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=isak-rp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isak-rp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isak-rp&theme=dark&show_icons=true&hide_border=false&v=1" alt="Estadísticas de Isaac" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=isak-rp&theme=dark&hide_border=false" alt="Racha de GitHub" />
+</p>
 
 ### 💻 Lenguajes Principales:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isak-rp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isak-rp&theme=dark&hide_border=false&layout=compact&v=1" alt="Lenguajes más usados" />
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=isak-rp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isak-rp&theme=radical&no-frame=false&no-bg=true&margin-w=4&v=1" alt="Trofeos de GitHub" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=isak-rp&icon=0&color=7)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=isak-rp&icon=0&color=7" alt="Contador de visitas" />
+  </a>
+</p>
