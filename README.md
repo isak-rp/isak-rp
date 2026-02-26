@@ -1,6 +1,6 @@
 # 💫 ¡Hola! Soy Isaac 👋
 
-Soy Ingeniero en Sistemas enfocado en **Backend Development** y **Machine Learning Engineering (MLOps)**. Me apasiona el diseño de arquitecturas, la automatización de procesos y el reto de integrar modelos de IA en aplicaciones reales.<br><br>Actualmente estoy construyendo proyectos prácticos para consolidar mis conocimientos en infraestructura Cloud y despliegue de software.
+Soy Ingeniero en Sistemas enfocado en **Backend Development** y **Machine Learning Engineering (MLOps)**. Me apasiona el diseño de arquitecturas, la automatización de procesos y el reto de integrar modelos de IA en aplicaciones reales.<br><br>Actualmente estoy construyendo proyectos prácticos para consolidar mis conocimientos en bases de datos, infraestructura Cloud y despliegue de software.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-ramirez-pati%C3%B1o-1ba23b2b2/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacram1711@gmail.com)
@@ -8,18 +8,18 @@ Soy Ingeniero en Sistemas enfocado en **Backend Development** y **Machine Learni
 # 💻 Tech Stack & Herramientas:
 
 ### 🧱 Tecnologías Base (Mis cimientos)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-* Conocimientos sólidos en **Python**, bases de datos relacionales (**PostgreSQL / SQL**) y contenerización básica con **Docker**. Entendimiento fundamental de servicios en **AWS**.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+* Lógica sólida de programación en **Python**, diseño de bases de datos relacionales (**MySQL / SQL**), creación de **APIs REST**, control de versiones con **Git** y familiaridad con terminales **Linux** y contenedores.
 
 ### 🌱 Explorando e Implementando en Proyectos
 *(Herramientas que utilizo activamente en mis desarrollos apoyándome en documentación e IA para resolver problemas complejos)*
 <br><br>
-**Backend & APIs:** <br>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+**Backend, APIs & Bases de Datos:** <br>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**Machine Learning, IA & Orquestación:** <br>
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=probot&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-* Integración de LLMs locales y en la nube (Ollama, DeepSeek, Groq), flujos RAG, MLflow, Celery y pgvector.
+**Cloud, Machine Learning & IA:** <br>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=probot&logoColor=white) 
+* Implementación de bases de datos, despliegues en AWS/GCP e integración de LLMs locales y en la nube (Ollama, DeepSeek, Groq) mediante flujos RAG.
 
 # 🚀 Proyecto Destacado:
 
